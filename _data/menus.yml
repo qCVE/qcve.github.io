@@ -2,15 +2,12 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Advisories"
+    url: "/advisories/"
     weight: 3
-  - name: "About"
+  - name: "About Us"
     url: "/about/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
 
 footer:
   - name: "Home"
